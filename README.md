@@ -1,4 +1,6 @@
 # notebooks_classes
+![ ](https://github.com/luizgontijo/notebooks_classes/blob/master/imgs/classroom_banner.png)
+
 
 ### About this repository
 
