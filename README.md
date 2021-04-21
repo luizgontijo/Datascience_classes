@@ -8,7 +8,7 @@ I created this repository in order to show my knowledge and help the community. 
 
 ### Notebooks
 - [Image Processing](https://github.com/luizgontijo/notebooks_classes/blob/master/image_processing.ipynb)
-- [Introduction to Recommendation Systems] (https://github.com/luizgontijo/notebooks_classes/blob/master/intro_recommendation_systems.ipynb)
+- [Introduction to Recommendation Systems](https://github.com/luizgontijo/notebooks_classes/blob/master/intro_recommendation_systems.ipynb)
 
 
 
